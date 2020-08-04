@@ -1,0 +1,18 @@
+[FB]
+group_name = "1564785110326473"
+permalink_num = 1670140746457575 # permalink number of the fb post
+tags_per_comment = 1  # number of people to tag in each comment
+
+[CREDS]
+username = "ENTER YOUR USERNAME HERE"
+password = "ENTER YOUR PASSWORD HERE"
+
+[INFO]
+names = "data/names.txt"
+# names of people to be tagged, one name on each line
+exclude = "data/exclude.txt"  # Person names who shouldn't be tagged, one on each line
+exclude_seen = false  # If true, won't tag those who have already seen the post
+
+
+[BROWSER]
+profile_path = ""  # path to firefox profile to be used
